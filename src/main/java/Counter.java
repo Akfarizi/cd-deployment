@@ -1,4 +1,4 @@
-//V1.0.0 gagal
+// V.1.0.1 berhasil
 package src.main.java;
 
 public class Counter {
